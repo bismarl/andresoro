@@ -1,13 +1,17 @@
 <script setup>
 import { RouterView } from "vue-router";
 import TheNavBar from "@/components/navbar/TheNavBar.vue";
+import TheMobileNavBar from '@/components/navbar/TheMobileNavBar.vue';
 import TheFooter from "@/components/common/TheFooter.vue";
 </script>
 
 <template>
-  <div class="bg-white md:mx-48 xl:mx-auto max-w-7xl">
-    <TheNavBar />
-    <div class="py-20 md:py-10 md:py-auto mx-4 md:mx-auto">
+  <div class="md:mx-48 xl:mx-auto max-w-6xl">
+    <div>
+      <TheNavBar class="hidden md:flex bg-green-700 text-white" />
+      <TheMobileNavBar class="md:hidden " />
+    </div>
+    <div class="bg-stone-50/30">
       <RouterView />
     </div>
     <TheFooter />
