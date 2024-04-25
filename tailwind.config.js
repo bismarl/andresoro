@@ -6,7 +6,11 @@ module.exports = {
     "./node_modules/tw-elements/dist/js/**/*.js",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'header': "url('/src/assets/images/header.jpeg')"
+      }
+    },
   },
   plugins: [require("tw-elements/dist/plugin.cjs")],
 }

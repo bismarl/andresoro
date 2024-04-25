@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="h-[350px] flex flex-col md:flex-row items-center p-8 bg-[url('src/assets/images/header.jpeg')] bg-no-repeat bg-cover bg-center-bottom">
+      class="h-[350px] flex flex-col md:flex-row items-center p-8 bg-header bg-no-repeat bg-cover bg-center-bottom">
       <div class="">
         <img src="@/assets/images/andre.jpg"
             class="h-48 w-48 rounded-full" alt="André Soro" />
