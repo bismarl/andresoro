@@ -8,7 +8,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'header': "url('/src/assets/images/header.jpeg')"
+        'header': "url('/src/assets/images/header.jpeg')",
+        'publications': "url('/src/assets/images/publications.jpg')",
+        'teaching': "url('/src/assets/images/teaching.jpg')"
       }
     },
   },

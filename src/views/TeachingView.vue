@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="h-[250px] flex flex-col md:flex-row items-center p-8 bg-[url('src/assets/images/teaching.jpg')] bg-no-repeat bg-cover bg-center-bottom">
+      class="h-[250px] flex flex-col md:flex-row items-center p-8 bg-teaching bg-no-repeat bg-cover bg-center-bottom">
     </div>
 
     <div class="py-10 md:py-10 md:py-auto px-8">
