@@ -13,7 +13,7 @@
           and wood anatom- ical properties in white spruce seedlings, and relationships
           with growth and wood density</p>
         <p class="text-md">A Soro, P Lenz, J Roussel, S Nadeau, D Pothier, J Bousquet, Alexis Achim.</p>
-        <p class="text-md italic">Frontiers in Plant Science, 2023 (submitted).</p>
+        <p class="text-md italic">Frontiers in Plant Science 2023, 14 : 1297314 (17p.).</p>
       </div>
 
       <div class="bg-green-400 inline-block px-3 mt-4">2022</div>
