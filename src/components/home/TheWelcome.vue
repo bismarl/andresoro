@@ -15,14 +15,14 @@
       <h2 class="text-xl mb-4 uppercase font-bold">A propos</h2>
 
       <p class="text-md my-4">
-        <span class="font-bold">André Soro, PhD</span> est un chercheur postdoctoral au sein <a
+        <span class="font-bold">André Soro, PhD</span> est un chercheur postdoctoral au sein du <a
           href="https://www.ffgg.ulaval.ca/sciences-du-bois-et-de-la-foret" target="_blank"><span class="badge">Département des sciences du
           bois et de la forêt</span></a> de l'Université Laval (Québec, Canada). Sous la supervision
         de Jean Bousquet, PhD et Patrick Lenz, PhD,
         il travaille sur une variété de sujets de recherche en sciences forestières.
         Ses travaux de recherche actuels, faisant partie du projet d'envergure <span class="font-bold">FastTRAC
           II</span>, portent sur la sélection génomique pour l'amélioration de la
-        croissance et les traits adaptatifs chez l'épinette noire et rouge.
+        croissance et les traits adaptatifs chez l'épinette noire, blanche et de norvège.
       </p>
 
       <p class="text-md my-4">
@@ -58,7 +58,7 @@
         leur environnement et les facteurs génétiques qui façonnent leur croissance et leur adaptation.
         Ainsi mes
         principaux domaines d'Intérêts de recherche
-        sont la <span class="badge">génétique forestière</span>, la <span class="badge">physiologie des arbres</span>,
+        sont la <span class="badge">génétique forestière</span>, la <span class="badge">génomique forestière</span>, la <span class="badge">physiologie des arbres</span>,
         la <span class="badge">science du bois</span> et la <span class="badge">sylviculture</span>.
       </p>
     </div>
